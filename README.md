@@ -93,4 +93,6 @@ The system uses specific digital pins to control each LED:
    - Manages the light sequence for the given road and controls the transition from red to yellow to green.
 
 ---
+LED testing and IR testing would help you test the components and ensure their positions relative to the code.
+
 
